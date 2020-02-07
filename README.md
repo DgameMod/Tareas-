@@ -1,0 +1,2 @@
+# Tareas-Solución de tarea  de la semana numero 2:
+Está  tarea tiene varias  soluciones, como puede ser utilizando if, if else, en consecutivo yo utilicé la opción de swich- catch,  un ciclo para que leyera las condiciones, dependiendo del número que se ingresara, sería el resultado que se le mostraría en pantalla, luego de que la condición se cumpliera se le muestra en pantalla mi nombre y mi carnet. En dado caso sería 10 el numero que se ingresaría por el valor que se pidió al crear la variable, siendo otoño la respuesta.
